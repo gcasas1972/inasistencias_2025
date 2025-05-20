@@ -1,20 +1,19 @@
-﻿Apellido(s),Nombre,"Dirección de correo",Estado,"Comenzado el",Finalizado,"Tiempo requerido","Calificación/10,00","P. 1 /1,00","P. 2 /1,00","P. 3 /1,00","P. 4 /1,00","P. 5 /1,00","P. 6 /1,00","P. 7 /1,00","P. 8 /1,00","P. 9 /1,00","P. 10 /1,00"
-Dellana,Mirko,mirkod2009@gmail.com,Finalizado,"26 de abril de 2025  19:31","26 de abril de 2025  19:41","10 minutos 1 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-"ENGERS GONZALEZ","Facundo Agustin",morenabonitafacturas@gmail.com,Finalizado,"27 de abril de 2025  17:50","27 de abril de 2025  18:00","9 minutos 39 segundos","7,00","0,00","0,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","0,00"
-AYBAR,"Lautaro Francisco",aybarguillermo@gmail.com,Finalizado,"27 de abril de 2025  23:55","28 de abril de 2025  00:03","8 minutos 47 segundos","9,00","0,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-GERAGHTY,"Pedro Gabriel",tristangabrielgeraghty@gmail.com,Finalizado,"28 de abril de 2025  17:04","28 de abril de 2025  17:14","9 minutos 59 segundos","7,00","1,00","1,00","0,00","1,00","0,00","1,00","0,00","1,00","1,00","1,00"
-VILLCA,"Franco Joaquín",rutyayala28@gmail.com,Finalizado,"28 de abril de 2025  17:07","28 de abril de 2025  17:07","3 segundos","0,00",-,-,-,-,-,-,-,-,-,-
-VILLCA,"Franco Joaquín",rutyayala28@gmail.com,Finalizado,"28 de abril de 2025  17:07","28 de abril de 2025  17:08","1 segundos","0,00",-,-,-,-,-,-,-,-,-,-
-VILLCA,"Franco Joaquín",rutyayala28@gmail.com,Finalizado,"28 de abril de 2025  17:08","28 de abril de 2025  17:08","2 segundos","0,00",-,-,-,-,-,-,-,-,-,-
-VILLCA,"Franco Joaquín",rutyayala28@gmail.com,Finalizado,"28 de abril de 2025  17:15","28 de abril de 2025  17:15","1 segundos","0,00",-,-,-,-,-,-,-,-,-,-
-VILLCA,"Franco Joaquín",rutyayala28@gmail.com,Finalizado,"28 de abril de 2025  17:24","28 de abril de 2025  17:24","2 segundos","0,00",-,-,-,-,-,-,-,-,-,-
-VILLCA,"Franco Joaquín",rutyayala28@gmail.com,Finalizado,"28 de abril de 2025  18:01","28 de abril de 2025  18:01","2 segundos","0,00",-,-,-,-,-,-,-,-,-,-
-"DI FEBO","Liam Yoel",liamdifebo15@gmail.com,Finalizado,"28 de abril de 2025  18:12","28 de abril de 2025  18:21","8 minutos 26 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-VILLCA,"Franco Joaquín",rutyayala28@gmail.com,Finalizado,"28 de abril de 2025  18:20","28 de abril de 2025  18:27","6 minutos 15 segundos","6,00","1,00","1,00","1,00","1,00","0,00","0,00","0,00","1,00","0,00","1,00"
-BRUNO,"Mateo Ignacio",mateoibruno5@gmail.com,Finalizado,"28 de abril de 2025  18:43","28 de abril de 2025  18:51","8 minutos 9 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-VILLCA,"Franco Joaquín",rutyayala28@gmail.com,Finalizado,"28 de abril de 2025  19:01","28 de abril de 2025  19:05","3 minutos 58 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-"SANTIBAÑEZ RAMÍREZ","Araceli Rosario Abigail",habibiaraceli08@gmail.com,Finalizado,"28 de abril de 2025  21:38","5 de mayo de 2025  17:11","6 días 19 horas","0,00",-,-,-,-,-,-,-,-,-,-
-"Ibarra Yegro",Tobias,alexa_r3@yahoo.com.ar,Finalizado,"28 de abril de 2025  22:14","28 de abril de 2025  22:17","3 minutos 24 segundos","7,00","1,00","1,00","1,00","1,00","1,00","0,00","0,00","0,00","1,00","1,00"
-"LOPEZ BERZA","Zoe Antonella",electroariel_@hotmail.com,Finalizado,"29 de abril de 2025  09:30","29 de abril de 2025  09:30","1 segundos","0,00",-,-,-,-,-,-,-,-,-,-
-"ANDRADA BASCOPE","Lourdes Elizabeth",gralraul71@gmail.com,Finalizado,"29 de abril de 2025  13:48","29 de abril de 2025  13:55","6 minutos 41 segundos","9,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","0,00"
-"Promedio general",,,,,,,"4,72","0,44","0,50","0,50","0,56","0,44","0,44","0,39","0,50","0,50","0,44"
+Apellido(s),Finalizado,Tiempo requerido,"Calificación/10,00"
+ANDRADA BASCOPE,29 de abril de 2025  13:55,6 minutos 41 segundos,9
+AYBAR,28 de abril de 2025  00:03,8 minutos 47 segundos,9
+BRUNO,28 de abril de 2025  18:51,8 minutos 9 segundos,10
+Dellana,26 de abril de 2025  19:41,10 minutos 1 segundos,10
+DI FEBO,28 de abril de 2025  18:21,8 minutos 26 segundos,10
+ENGERS GONZALEZ,27 de abril de 2025  18:00,9 minutos 39 segundos,7
+GERAGHTY,28 de abril de 2025  17:14,9 minutos 59 segundos,7
+Ibarra Yegro,28 de abril de 2025  22:17,3 minutos 24 segundos,7
+LOPEZ BERZA,29 de abril de 2025  09:30,1 segundos,0
+SANTIBAÑEZ RAMÍREZ,5 de mayo de 2025  17:11,6 días 19 horas,0
+VILLCA,28 de abril de 2025  19:05,3 minutos 58 segundos,10
+VILLCA,28 de abril de 2025  18:27,6 minutos 15 segundos,6
+VILLCA,28 de abril de 2025  17:07,3 segundos,0
+VILLCA,28 de abril de 2025  17:08,1 segundos,0
+VILLCA,28 de abril de 2025  17:08,2 segundos,0
+VILLCA,28 de abril de 2025  17:15,1 segundos,0
+VILLCA,28 de abril de 2025  17:24,2 segundos,0
+VILLCA,28 de abril de 2025  18:01,2 segundos,0
