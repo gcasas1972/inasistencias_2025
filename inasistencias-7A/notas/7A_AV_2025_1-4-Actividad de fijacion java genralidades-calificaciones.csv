@@ -1,12 +1,11 @@
-﻿Apellido(s),Nombre,"Dirección de correo",Estado,"Comenzado el",Finalizado,"Tiempo requerido","Calificación/10,00","P. 1 /1,00","P. 2 /1,00","P. 3 /1,00","P. 4 /1,00","P. 5 /1,00","P. 6 /1,00","P. 7 /1,00","P. 8 /1,00","P. 9 /1,00","P. 10 /1,00"
-Careaga,Matias,47432115@gmail.com,Finalizado,"25 de abril de 2025  15:48","25 de abril de 2025  15:57","8 minutos 57 segundos","8,00","1,00","1,00","0,00","1,00","1,00","1,00","0,00","1,00","1,00","1,00"
-Garcia,"Lucas Nahuel",Lucasnahuel415@gmail.com,Finalizado,"25 de abril de 2025  15:49","25 de abril de 2025  15:58","9 minutos 8 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-Hernandez,"Avril Valentina",avril2018hernandez@gmail.com,Finalizado,"25 de abril de 2025  15:52","25 de abril de 2025  15:58","6 minutos 20 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-Franco,"Tiago Emanuel",tiagfox06@gmail.com,Finalizado,"25 de abril de 2025  15:54","25 de abril de 2025  16:03","9 minutos 55 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-CUBILLA,"MATEO EZEQUIEL",cubillaezequiel30@gmail.com,Finalizado,"25 de abril de 2025  15:56","25 de abril de 2025  16:06","9 minutos 7 segundos","8,00","1,00","1,00","1,00","0,00","1,00","1,00","1,00","1,00","0,00","1,00"
-Portillo,"Camila Isabella",47863213@gmail.com,Finalizado,"25 de abril de 2025  16:00","25 de abril de 2025  16:05","5 minutos 43 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-"Rosales Bastidas","Victoria De Los Angeles",rosalesvictoria03002@gmail.com,Finalizado,"25 de abril de 2025  17:24","25 de abril de 2025  17:28","4 minutos 8 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-Careaga,Matias,47432115@gmail.com,Finalizado,"25 de abril de 2025  21:53","25 de abril de 2025  22:00","7 minutos 8 segundos","8,00","1,00","0,00","1,00","1,00","1,00","1,00","1,00","0,00","1,00","1,00"
-erazo,"violeta anahí",violetaanahierazo@gmail.com,Finalizado,"25 de abril de 2025  23:17","25 de abril de 2025  23:22","4 minutos 35 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-"Segovia Garcia",Ramiro,47758312@gmail.com,Finalizado,"25 de abril de 2025  23:46","25 de abril de 2025  23:50","3 minutos 43 segundos","10,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00","1,00"
-"Promedio general",,,,,,,"9,40","1,00","0,90","0,90","0,90","1,00","1,00","0,90","0,90","0,90","1,00"
+Apellido(s),Finalizado,Tiempo requerido,"Calificación/10,00"
+Careaga,25 de abril de 2025  15:57,8 minutos 57 segundos,8
+Careaga,25 de abril de 2025  22:00,7 minutos 8 segundos,8
+CUBILLA,25 de abril de 2025  16:06,9 minutos 7 segundos,8
+erazo,25 de abril de 2025  23:22,4 minutos 35 segundos,10
+Franco,25 de abril de 2025  16:03,9 minutos 55 segundos,10
+Garcia,25 de abril de 2025  15:58,9 minutos 8 segundos,10
+Hernandez,25 de abril de 2025  15:58,6 minutos 20 segundos,10
+Portillo,25 de abril de 2025  16:05,5 minutos 43 segundos,10
+Rosales Bastidas,25 de abril de 2025  17:28,4 minutos 8 segundos,10
+Segovia Garcia,25 de abril de 2025  23:50,3 minutos 43 segundos,10
